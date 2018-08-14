@@ -2,8 +2,8 @@
 
 The game was recreated at the workshop by Women in Technology Oslo.
 
-Here is the instruction that I made to go through the code:
-http://sci-code.com/Student_PlatformV1/public-avec-Back-end/index-dynamic3.php?course=1&section=20&user=467
+The instruction was made by using:
+http://sci-code.com/
 
 What does the game look like?
 
