@@ -2,7 +2,7 @@
 
 The game was recreated at the workshop by Women in Technology Oslo.
 
-The instruction was made by using:
+The instruction was made using:
 http://sci-code.com/
 
 What does the game look like?
